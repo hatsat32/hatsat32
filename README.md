@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Süleyman ERGEN</h1>
-<h3 align="center">I am a security researcher at Aurora Bilişim</h3>
-
-- 🔭 I’m currently working on [NetboxDNS](https://github.com/auroraresearchlab/netbox-dns)
+<h3 align="center">I am a security engineer at Base9</h3>
 
 - 📝 I regularly write articles on [suleymanergen.com](https://suleymanergen.com)
 
-- 📫 How to reach me **suleymanergen32@gmail.com**
+- 📫 How to reach me **suleymanergen@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
